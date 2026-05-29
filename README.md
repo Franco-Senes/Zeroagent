@@ -39,3 +39,5 @@ for chunk in stream:
 ## Cosas por añadir al futuro
 1. Sistema de buses para mensajes 
 2. Implementacion con otras ias
+
+###### MADE IN BOLIVIA BY ZERO.INFO.BO WITH LOVE <3 🇧🇴
