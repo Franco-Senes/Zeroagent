@@ -1,0 +1,13 @@
+# Configuración local de ZeroAgent (contiene API Keys)
+Settings.zr
+
+# Historial de conversaciones locales (Memoria del Agente)
+Memory.zr
+Memory*.zr
+
+# Archivos de caché y temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.ipynb_checkpoints/
